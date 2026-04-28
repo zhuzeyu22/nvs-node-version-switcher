@@ -43,7 +43,7 @@ elif [ "$MACHINE" = "Mac" ] || [ "$MACHINE" = "Linux" ]; then
         cd "$NVS_HOME" && git pull
     else
         echo "Cloning NVS repository..."
-        git clone https://github.com/jasongin/nvs "$NVS_HOME"
+        git clone https://github.com/zhuzeyu22/nvs.git "$NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch
     fi
     
     # Source the install script

@@ -84,7 +84,7 @@ nvs ls
 
 ## 🔗 External Resources
 
-- **NVS Official Repo**: https://github.com/jasongin/nvs
+- **NVS Custom Repo**: https://github.com/zhuzeyu22/nvs (Tag: v1.7.1-zhuzeyu22)
 - **Node.js Official**: https://nodejs.org/
 - **Lingma Agent**: https://lingma.aliyun.com/
 

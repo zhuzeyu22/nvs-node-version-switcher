@@ -72,7 +72,7 @@ choco install nvs
 #### macOS/Linux
 ```bash
 export NVS_HOME="$HOME/.nvs"
-git clone https://github.com/jasongin/nvs "$NVS_HOME"
+git clone https://github.com/zhuzeyu22/nvs.git "$NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch
 . "$NVS_HOME/nvs.sh" install
 ```
 
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Resources
 
-- [NVS Official Repository](https://github.com/jasongin/nvs)
+- [NVS Custom Repository](https://github.com/zhuzeyu22/nvs) (Tag: v1.7.1-zhuzeyu22)
 - [Node.js Official Website](https://nodejs.org/)
 - [Lingma Agent Skills Documentation](https://lingma.aliyun.com/)
 

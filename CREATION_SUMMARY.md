@@ -103,7 +103,7 @@
 
 ## 📖 学习资源
 
-技能基于官方 NVS 仓库 (https://github.com/jasongin/nvs) 创建，包含：
+技能基于定制 NVS 仓库 (https://github.com/zhuzeyu22/nvs, Tag: v1.7.1-zhuzeyu22) 创建，包含：
 - 官方文档的核心内容
 - 跨平台安装指南
 - 完整的命令参考

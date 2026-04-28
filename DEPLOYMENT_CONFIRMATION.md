@@ -202,7 +202,7 @@ bash scripts/install_nvs.sh
 ## 🔗 相关链接
 
 - **GitHub 仓库**: https://github.com/zhuzeyu22/nvs-node-version-switcher
-- **NVS 官方仓库**: https://github.com/jasongin/nvs
+- **NVS 定制仓库**: https://github.com/zhuzeyu22/nvs (Tag: v1.7.1-zhuzeyu22)
 - **Node.js 官网**: https://nodejs.org/
 - **Lingma Agent**: https://lingma.aliyun.com/
 

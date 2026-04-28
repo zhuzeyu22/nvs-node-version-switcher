@@ -63,7 +63,7 @@ Trigger the skill by asking questions like:
 ## 🔗 Links
 
 - **Repository**: https://github.com/zhuzeyu22/nvs-node-version-switcher
-- **NVS Official**: https://github.com/jasongin/nvs
+- **NVS Custom**: https://github.com/zhuzeyu22/nvs (Tag: v1.7.1-zhuzeyu22)
 - **Issues**: https://github.com/zhuzeyu22/nvs-node-version-switcher/issues
 
 ## 🙏 Acknowledgments

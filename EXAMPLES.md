@@ -174,7 +174,7 @@ FROM ubuntu:22.04
 
 # Install NVS
 RUN export NVS_HOME="/root/.nvs" && \
-    git clone https://github.com/jasongin/nvs "$NVS_HOME" && \
+    git clone https://github.com/zhuzeyu22/nvs.git "$NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch && \
     . "$NVS_HOME/nvs.sh" install && \
     nvs add 18.20.0 && \
     nvs use 18.20.0

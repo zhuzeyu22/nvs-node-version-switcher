@@ -26,14 +26,14 @@ choco install nvs
 
 # Manual installation
 $env:NVS_HOME="$env:LOCALAPPDATA\nvs"
-git clone https://github.com/jasongin/nvs "$env:NVS_HOME"
+git clone https://github.com/zhuzeyu22/nvs.git "$env:NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch
 . "$env:NVS_HOME\nvs.ps1" install
 ```
 
 #### Mac/Linux
 ```bash
 export NVS_HOME="$HOME/.nvs"
-git clone https://github.com/jasongin/nvs "$NVS_HOME"
+git clone https://github.com/zhuzeyu22/nvs.git "$NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch
 . "$NVS_HOME/nvs.sh" install
 ```
 

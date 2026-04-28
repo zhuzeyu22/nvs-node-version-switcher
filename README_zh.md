@@ -78,7 +78,7 @@ choco install nvs
 #### macOS/Linux
 ```bash
 export NVS_HOME="$HOME/.nvs"
-git clone https://github.com/jasongin/nvs "$NVS_HOME"
+git clone https://github.com/zhuzeyu22/nvs.git "$NVS_HOME" --branch v1.7.1-zhuzeyu22 --single-branch
 . "$NVS_HOME/nvs.sh" install
 ```
 
@@ -198,7 +198,7 @@ bash scripts/install_nvs.sh
 
 ## 🔗 相关资源
 
-- [NVS 官方仓库](https://github.com/jasongin/nvs)
+- [NVS 定制仓库](https://github.com/zhuzeyu22/nvs) (Tag: v1.7.1-zhuzeyu22)
 - [Node.js 官方网站](https://nodejs.org/)
 - [Lingma Agent 技能文档](https://lingma.aliyun.com/)
 
