@@ -128,7 +128,9 @@ bash scripts/install_nvs.sh
 - **[SKILL.md](SKILL.md)** - Main skill definition with quick start guide
 - **[REFERENCE.md](REFERENCE.md)** - Complete command reference with all options
 - **[EXAMPLES.md](EXAMPLES.md)** - Real-world usage scenarios and workflows
-- **[CREATION_SUMMARY.md](CREATION_SUMMARY.md)** - Background and design decisions
+- **[README_zh.md](README_zh.md)** - Chinese version of this document (中文版本)
+- **[RELEASE_NOTES.md](RELEASE_NOTES.md)** - v1.0.0 release notes
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick reference card
 - **[TEST_REPORT.md](TEST_REPORT.md)** - Test results and validation report
 
 ## 🎯 When to Use This Skill

@@ -77,6 +77,8 @@ nvs ls
 - **Main Skill**: [SKILL.md](SKILL.md)
 - **Command Reference**: [REFERENCE.md](REFERENCE.md)
 - **Examples**: [EXAMPLES.md](EXAMPLES.md)
+- **README (English)**: [README.md](README.md)
+- **README (中文)**: [README_zh.md](README_zh.md)
 - **Release Notes**: [RELEASE_NOTES.md](RELEASE_NOTES.md)
 - **Test Report**: [TEST_REPORT.md](TEST_REPORT.md)
 
